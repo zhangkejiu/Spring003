@@ -55,6 +55,7 @@ public class UserController {
     public void save11(String[] strs) {
         System.out.println(Arrays.asList(strs));
         //http://localhost:8088/user/query5?strs=aa&strs=bb
+        System.out.println("test");
     }
 
     //获取list 参数
